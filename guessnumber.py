@@ -3,7 +3,7 @@
 from random import randint
 
 number = randint(0 ,10)
-print(number)
+#print(number)
 counter=0
 while True:
     try:
